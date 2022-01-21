@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Iamnoob2255/Auto-Filter-Bot-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/Darksulthan/Auto-Filter-Bot-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/LXRBOTSGROUP) For Support/Assistance And Our [Channel](https://www.telegram.dog/LXRBOTSGROUP) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/LXRBOTSGROUP) For Support/Assistance And Our [Channel](https://www.telegram.dog/MMF_CHAT) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
